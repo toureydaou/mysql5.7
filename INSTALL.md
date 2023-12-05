@@ -2,6 +2,8 @@
 
 1. Update .env file by adding user & root DB passwords
 2. Install docker on your machine
-3. execute `docker compose -f stack.local.yml up -d`
-4. execute `docker ps` and check if the container is running
-5. Enjoy
+3. Execute `docker create network mysql57`
+4. Execute `docker create volume mysql57`
+5. Execute `docker compose -f stack.local.yml up -d`
+6. Execute `docker ps` and check if the container is running
+7. Enjoy
