@@ -1,6 +1,6 @@
 # Compte rendu
 
-  Au cours de ce test j'ai eu être confronté à diverses diffcultées et à les surmonter.
+  Au cours de ce test j'eu à être confronté à diverses diffcultées et à les surmonter.
 
 ## Prise en main du projet
 
